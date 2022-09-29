@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f2f5;
+}
+
+.nav {
+    background-color: #fff;
+    align-items: center;
+    padding: 5px;
+}
+
+.nav-link {
+    color: grey;
+}
+
+.bg-ea {
+    background-color: #eaeaea;
+}
+
+.form {
+    width: 200px;
+}
+
+.form-control {
+    border-radius: 15px;
+    background-color: #F0F2F5;
+    color: black;
+
+}
