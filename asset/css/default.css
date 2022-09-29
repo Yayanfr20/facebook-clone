@@ -1,0 +1,54 @@
+body {
+    background-color: #F0F2F5;
+}
+
+
+/* form login */
+.login {
+    display: flex;
+    justify-content: center;
+}
+
+.login form {
+    width: 340px;
+    height: auto;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+.login form input {
+    height: 50px;
+}
+
+.btn-masuk {
+    background-color: #166FE5;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+}
+
+.btn-masuk:hover {
+    background-color: #166FE5;
+    color: white;
+}
+
+.login form a {
+    text-decoration: none;
+}
+
+.btn-daftar {
+    background-color: #36A420;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+}
+
+.btn-daftar:hover {
+    background-color: #36A420;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    height: 50px;
+}
