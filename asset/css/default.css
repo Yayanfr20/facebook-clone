@@ -52,3 +52,13 @@ body {
     font-weight: bold;
     height: 50px;
 }
+
+/* form regis */
+.regis form input {
+    background-color: #F5F6F7;
+}
+
+.infoRegis{
+    font-size: 12px;
+    color: grey;
+}
